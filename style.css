@@ -5,7 +5,7 @@
 body {
   background-color: #f8f5f0;
   min-width: 300px;
-  margin: 0 auto; /* Center the content */
+  margin: 0 auto;
 }
 
 h1 {
@@ -19,7 +19,6 @@ button {
 }
 
 .canvas {
-  height: 100%;
   margin: 0.5rem 0.5rem;
   padding: 0.5rem;
   display: flex;
