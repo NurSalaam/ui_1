@@ -3,7 +3,3 @@ document.querySelector(".btn").addEventListener("click", () => {
     input.value = "";
   });
 });
-
-// $("input").on("click", () => {
-//   $("meta[name=viewport]").attr("content", "user-scalable=0");
-// });
