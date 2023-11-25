@@ -86,7 +86,7 @@ input {
   margin-bottom: 0;
 }
 
-.btn {
+.btn.big {
   background-color: black;
   color: white;
   border-radius: 10px;
