@@ -18,6 +18,11 @@ button {
   font-family: "Lato", sans-serif;
 }
 
+input {
+  font-family: "Lato", sans-serif;
+  padding-left: 1rem;
+}
+
 .canvas {
   margin: 0.5rem 0.5rem;
   padding: 0.5rem;
